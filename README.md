@@ -254,21 +254,21 @@ Al conectar una Corriente Alterna sinusoidal v(t) a un Capacitor circulará una 
 
 3. ¿Qué cree usted que ocurriría con el Voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-El voltaje y corriente dentro de los circuitos variaría en cada bobina o capacitor según como lo conectemos ya que los capacitores en serie se dividen y en paralelo se suman, encambio con las bobinas es al revés en serie se suman y en paralelo se dividen.
+  El voltaje y corriente dentro de los circuitos variaría en cada bobina o capacitor según como lo conectemos ya que los capacitores en serie se dividen y en paralelo se suman,   encambio con las bobinas es al revés en serie se suman y en paralelo se dividen.
 
 4. ¿Qué son los valores eficaces de voltaje y corriente?
 
-Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que dicho valor de voltaje o corriente en alterna.
+   Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que      dicho valor de voltaje o corriente en alterna.
 
 5. Video :
 
 
 6. Conclusiones :
-• Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
+• Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una             resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
 
-• Los condensadores conectados en serie se comportan como resistores en paralelo; y cuando se conectan en paralelo se comportan como resistores en serie. Por lo tanto, las combinaciones de inductores (bobinas) y condensadores pueden reducirse a una sola bobina o condensador, al igual que sucede con las resistencias.
+• Los condensadores conectados en serie se comportan como resistores en paralelo; y cuando se conectan en paralelo se comportan como resistores en serie. Por lo tanto, las         combinaciones de inductores (bobinas) y condensadores pueden reducirse a una sola bobina o condensador, al igual que sucede con las resistencias.
 
-• Los resultados obtenidos de manera analítica en comparación con el simulador tienen una pequeña variación, debido a la utilización de los decimales ya que el simulador implementa diferentes algoritmos para el cálculo donde varían muy poco los decimales.
+• Los resultados obtenidos de manera analítica en comparación con el simulador tienen una pequeña variación, debido a la utilización de los decimales ya que el simulador           implementa diferentes algoritmos para el cálculo donde varían muy poco los decimales.
 
 7. Bibliografia :
 
