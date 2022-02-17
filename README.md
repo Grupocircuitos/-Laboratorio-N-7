@@ -267,8 +267,10 @@ Al conectar una Corriente Alterna sinusoidal v(t) a un Capacitor circulará una 
 
 5. Video :
 
+https://youtu.be/NQmZVVvkXO4
 
 6. Conclusiones :
+
 • Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una             resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
 
 • Los condensadores conectados en serie se comportan como resistores en paralelo; y cuando se conectan en paralelo se comportan como resistores en serie. Por lo tanto, las         combinaciones de inductores (bobinas) y condensadores pueden reducirse a una sola bobina o condensador, al igual que sucede con las resistencias.
